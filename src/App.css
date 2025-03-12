@@ -1,0 +1,24 @@
+.buttons{
+    position: relative;
+    left: 170px;
+    top: -72px;
+}
+
+.div1{
+
+    border: 10px solid black;
+    padding:  20px;
+    width: 400px;
+    position: relative;
+    left: 30%;
+    
+}
+
+.name{
+    text-align: center;
+}
+
+#form{
+align-items: center;
+margin: 50px;
+}
