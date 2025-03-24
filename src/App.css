@@ -8,17 +8,44 @@
 
     border: 10px solid black;
     padding:  20px;
-    width: 400px;
+    width: 500px;
     position: relative;
     left: 30%;
+    background-color: #d9f2ff;
     
 }
 
 .name{
+    background-color: #a5bdfd;
+    padding: 10px 2px;
+    border: black 2px solid ;
+    /* width: 200px; */
     text-align: center;
+   
 }
 
 #form{
-align-items: center;
+align-content: center;
 margin: 50px;
+
+
+}
+
+.total{
+    position: fixed;
+    left: 77%;
+    top: 400px;
+    background-color:rgba(0, 255, 255, 0.421);
+    padding:10px;
+    border-radius: 10px;
+    border: black 2px solid ;
+}
+
+.menu{
+    background-color: rgba(128, 128, 128, 0.178);
+    padding: 10px 15px 5px;
+    margin: 10px;
+    border-radius: 10px;
+    border: black 2px solid ;
+    /* #dcb5ff */
 }
