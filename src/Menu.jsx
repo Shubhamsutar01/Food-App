@@ -357,8 +357,4 @@ export function Home() {
   )
  }
   
- export function Thanks(){
-  return(
-    <h1>Thank You</h1>
-  )
- }
+ 
